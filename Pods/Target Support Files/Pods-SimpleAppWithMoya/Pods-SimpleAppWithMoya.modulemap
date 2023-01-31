@@ -1,0 +1,6 @@
+framework module Pods_SimpleAppWithMoya {
+  umbrella header "Pods-SimpleAppWithMoya-umbrella.h"
+
+  export *
+  module * { export * }
+}
